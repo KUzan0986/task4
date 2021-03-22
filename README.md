@@ -23,3 +23,6 @@
 #### Скриншоты
 
 ![](https://i.imgur.com/HJ1VbMj.png)
+
+
+<script src="https://localhost/neuro.sdk.min.js"></script>
